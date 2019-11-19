@@ -1,6 +1,6 @@
 Pymaceuticals Inc
 
-![Laboratory](Images/Laboratory.jpg)
+![Laboratory](Laboratory.jpg)
 
 Pymaceuticals specializes in drug-based, anti-cancer pharmaceuticals. In their most recent efforts, they've since begun screening for potential treatments to squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
