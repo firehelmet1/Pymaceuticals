@@ -1,4 +1,4 @@
-Pymaceuticals Inc - a data analytics study on efficacy 
+## Pymaceuticals Inc - a data analytics study on efficacy 
 
 ![Laboratory](images/Laboratory.jpg)
 
@@ -24,3 +24,6 @@ Finally, when looking at the metastatic spread of tumors through the treatment c
 ![Metastasis](images/pymaceuticals_metastasis.png)
 
 In summary, the data quite clearly shows that Capomulin exhibits low metastatic spread and significant tumor size reduction through the course of treatment. Consequently, Capomulin exhibits the best survival rate for mice during the 45-day treatment. Conversely, Ketapril exhibited the worst performance in all areas. 
+
+## Code Execution 
+Execute in Jupyter Notebook
